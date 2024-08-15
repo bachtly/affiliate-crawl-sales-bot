@@ -1,0 +1,8 @@
+selenium
+webdriver_manager
+pymongo
+dnspython
+unidecode
+python-logging-loki
+keras==2.2.5
+pillow
