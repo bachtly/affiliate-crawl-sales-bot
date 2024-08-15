@@ -23,4 +23,5 @@ As it has been a while since I stopped developing the bot, this documentation on
 - A flow, when invoked by the scheduler, triggers the schedules for sub-flows like product flow and publishing flow. 
 - In product flow, the bot craw the products from e-commerce websites, crawls the affiliate links, generates marketing content, and saves all of them to the MongoDB database. 
 - In publishing flow, the bot retrieves products from the database and publishes content on social media
-![affiliate-bot-design](https://github.com/user-attachments/assets/7c8e34a6-c705-4d95-b59f-94d7428843b1)
+
+![affiliate-bot-design](https://github.com/user-attachments/assets/05e66c20-e9f4-4d5e-8f65-58e7d769938f)
